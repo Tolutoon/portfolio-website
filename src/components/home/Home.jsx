@@ -1,14 +1,13 @@
-import React, { useRef, useEffect } from 'react';
+import React from 'react';
 import './home.css';
 import Me from '../../assets/my-image.png';
 import HeaderSocials from './HeaderSocials';
 import ScrollDown from './ScrollDown';
 import Typewriter from 'typewriter-effect';
-import { init } from 'ityped';
+import Shapes from './Shapes';
 
 const Home = () => {
 
-  const textRef = useRef(null);
 
   /* useEffect(()=> {
     init(textRef.current, {
@@ -54,6 +53,8 @@ const Home = () => {
 
         <ScrollDown/>
       </div>
+      
+      <Shapes/>
     </section>
   )
 }
