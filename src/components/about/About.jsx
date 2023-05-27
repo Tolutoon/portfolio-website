@@ -1,6 +1,6 @@
 import React from 'react';
 import './about.css';
-import Image from '../../assets/imago-2.png';
+import Image from '../../assets/imagei.jpg';
 
 const About = () => {
   return (
@@ -12,7 +12,7 @@ const About = () => {
 
         <div className='about__data grid'>
           <div className='about__info'>
-            <p className='about__description'>I am Tolu Olopade, software developer from Lagos, Nigeria. I have a good experience in software development and building and customization, also I am good at User Interface Designs.</p>
+            <p className='about__description'>I am Tolu Olopade, Software developer from Lagos, Nigeria. I have a good experience in software development and building and customization, also I am good at User Interface Designs.</p>
             <a href='' className='btn'>Download CV</a>
           </div>
 
@@ -31,7 +31,7 @@ const About = () => {
             <div className='skills__data'>
               <div className='skills__titles'>
                 <h3 className='skills__name'>UI Design</h3>
-                <span className='skills__number'>75%</span>
+                <span className='skills__number'>70%</span>
               </div>
 
               <div className='skills__bar'>
@@ -46,7 +46,7 @@ const About = () => {
               </div>
 
               <div className='skills__bar'>
-                <span className="skills__percentage"></span>
+                <span className="skills__percentage illustration"></span>
               </div>
             </div>
 
