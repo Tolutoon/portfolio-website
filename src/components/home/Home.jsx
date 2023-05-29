@@ -1,6 +1,6 @@
 import React from 'react';
 import './home.css';
-import Me from '../../assets/my-image.png';
+import Me from '../../assets/IMG_0761.jpg';
 import HeaderSocials from './HeaderSocials';
 import ScrollDown from './ScrollDown';
 import Typewriter from 'typewriter-effect';

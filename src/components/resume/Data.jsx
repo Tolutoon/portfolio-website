@@ -1,11 +1,11 @@
 const Data = [
     {
         id: 1,
-        category: 'education',
-        name: 'University of Lagos',
-        icon: 'icon-graduation',
-        year: '2015 - 2019',
-        title: 'Bachelor\'s Degree',
+        category: 'experience',
+        name: 'ALX',
+        icon: 'icon-briefcase',
+        year: '2022 - 2023',
+        title: 'Internship',
         desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore voluptatum necessitatibus ipsam modi itaque vel repellendus ullam adipisci et molestiae soluta perferendis nesciunt, dolore tempora possimus praesentium minus temporibus ut.'
     },
     {
@@ -28,11 +28,11 @@ const Data = [
     },
     {
         id: 1,
-        category: 'experience',
-        name: 'ALX',
-        icon: 'icon-briefcase',
-        year: '2022 - 2023',
-        title: 'Internship',
+        category: 'education',
+        name: 'University of Lagos',
+        icon: 'icon-graduation',
+        year: '2015 - 2019',
+        title: 'Bachelor\'s Degree',
         desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore voluptatum necessitatibus ipsam modi itaque vel repellendus ullam adipisci et molestiae soluta perferendis nesciunt, dolore tempora possimus praesentium minus temporibus ut.'
     },
 ];
