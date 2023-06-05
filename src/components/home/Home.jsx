@@ -4,7 +4,6 @@ import Me from '../../assets/IMG_0761.jpg';
 import HeaderSocials from './HeaderSocials';
 import ScrollDown from './ScrollDown';
 import Typewriter from 'typewriter-effect';
-import Shapes from './Shapes';
 
 const Home = () => {
 
@@ -25,7 +24,7 @@ const Home = () => {
     <section className='home container' id='home'>
       <div className='intro'>
         <img src={Me} alt='' className='home__img'/>
-        <h1 className='home__name'>Tolu Olopade</h1>
+        <h1 className='home__name'>Tolu</h1>
         <h4 className='home__education'>
           <Typewriter 
           onInit={(typewriter) => {
@@ -54,7 +53,7 @@ const Home = () => {
         <ScrollDown/>
       </div>
       
-      <Shapes/>
+       {/* <Shapes/> */}
     </section>
   )
 }

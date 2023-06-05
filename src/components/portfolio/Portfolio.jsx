@@ -7,7 +7,7 @@ const Portfolio = () => {
 
   return (
     <section className='work container section' id='portfolio'>
-      <h2 className='section__title'>Recent projects</h2>
+      <h2 className='section__title'>Projects</h2>
 
       <div className='work__filters'>
         <span className='work__item'>Everything</span>

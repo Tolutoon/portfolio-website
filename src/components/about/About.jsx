@@ -12,8 +12,8 @@ const About = () => {
 
         <div className='about__data grid'>
           <div className='about__info'>
-            <p className='about__description'>I am Tolu Olopade, Software developer from Lagos, Nigeria. I have a good experience in software development and building and customization, also I am good at User Interface Designs.</p>
-            <a href='' className='btn'>Download CV</a>
+            <p className='about__description'>I am Olopade Tolu, Software developer from Lagos, Nigeria. I have a good experience in software development and building and customization, also I am good at User Interface Designs.</p>
+            <a href='https://drive.google.com/file/d/1htkLnSB7Mm9N6SwrDppgZLza3W-1zQf1/view?usp=sharing' rel="noreferrer" target='_blank' className='btn'>Download CV</a>
           </div>
 
           <div className='about__skills grid'>
