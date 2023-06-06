@@ -13,32 +13,32 @@ import Work7 from '../../assets/GYM.svg';
 const Menu = [
     {
         id: 1,
+        image: Work5,
+        title: 'Next Website ',
+        category: 'Development',
+    },
+    {
+        id: 2,
         image: Work1,
         title: 'Pizza Town',
         category: 'Development',
     },
     {
-        id: 2,
+        id: 3,
+        image: Work7,
+        title: 'GYM Website',
+        category: 'Development',
+    },
+    {
+        id: 4,
         image: Work2,
         title: 'Tesla Mobile Application Clone',
         category: 'Mobile App Development',
     },
     {
-        id: 3,
-        image: Work4,
-        title: 'My Portfolio Website',
-        category: 'Development',
-    },
-    {
-        id: 4,
-        image: Work5,
-        title: 'Next Website',
-        category: 'Development',
-    },
-    {
         id: 5,
-        image: Work7,
-        title: 'GYM Website',
+        image: Work3,
+        title: 'Tic-Tac-Toe Game',
         category: 'Development',
     },
     {
@@ -49,8 +49,8 @@ const Menu = [
     },
     {
         id: 7,
-        image: Work3,
-        title: 'Tic-Tac-Toe Game',
+        image: Work4,
+        title: 'Personal Portfolio Website',
         category: 'Development',
     },
 ];
