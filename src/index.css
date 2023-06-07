@@ -2,18 +2,20 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Michroma&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600&display=swap');
+
 
 /*------------- CSS Variables ------------*/
 :root {
   --first-color: hsl(353, 100%, 65%);
-  --title-color: hsl(244, 24%, 26%);
+  --title-color: hsl(244, 26%, 21%);
   --text-color: hsl(244, 16%, 43%);
   --body-color: hsl(258, 60%, 98%);
   --body-colorII: #614edd;
   --body-colorIII: #40FF6A;
   --container-color: #fff;
 
-  --body-font: 'Rubik', sans-serif;
+  --body-font: 'Space Grotesk', sans-serif;
   --h1-font-size: 2.25rem;
   --h3-font-size: 1.5rem;
   --h3-font-size: 1.25rem;

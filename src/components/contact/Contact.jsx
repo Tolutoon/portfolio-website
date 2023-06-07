@@ -1,7 +1,29 @@
-import React from 'react';
+import React, {useRef} from 'react';
+import emailjs from '@emailjs/browser';
+import { toast } from 'react-toastify';
 import './contact.css';
 
+
 const Contact = () => {
+
+  const displayNotification = () => {
+    toast.success("Message Sent");
+  };
+
+  const form = useRef();
+
+
+  const sendEmail = (e) => {
+    e.preventDefault();
+
+    emailjs.sendForm('service_kdpnvqn', 'template_mf2nfwd', form.current, 'G1vx6uLDHw57tu-OV')
+      .then((result) => {
+          console.log(result.text);
+          console.log('message sent')
+      }, (error) => {
+          console.log(error.text);
+      });
+  }
   return (
     <section className='contact container section' id='contact'>
       <h2 className='section__title'>Get In Touch</h2>
@@ -12,21 +34,21 @@ const Contact = () => {
           <p className='contact__dtails'>Don't like forms? Send me an email.</p>
         </div>
 
-        <form action='' className='contact__form'>
+        <form action='' className='contact__form' ref={form} onSubmit={sendEmail}>
           <div className='contact__form-group'>
             <div className='contact__form-div'>
-              <input type='text' className='contact__form-input' 
+              <input type='text' className='contact__form-input' name='user_name'
               placeholder='Insert your name'/>
             </div>
 
             <div className='contact__form-div'>
-              <input type='email' className='contact__form-input' 
+              <input type='email' className='contact__form-input' name='user_email'
               placeholder='Insert your email'/>
             </div>
           </div>
 
             <div className='contact__form-div'>
-              <input type='text' className='contact__form-input' 
+              <input type='text' className='contact__form-input' name='message' 
               placeholder='Insert your subject'/>
             </div>
 
@@ -36,7 +58,7 @@ const Contact = () => {
               placeholder='Write your message'></textarea>
             </div>
 
-            <button className='btn'>Send Message</button>
+            <button className='btn' onClick={displayNotification}>Send Message</button>
         </form>
       </div>
     </section>
