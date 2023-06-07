@@ -1,8 +1,11 @@
-import React from 'react'
+import React from 'react';
+import './certification.css';
 
 const Certification = () => {
   return (
-    <div>Certification</div>
+    <section className='certify container section' id='certificate'>
+      <h2 className='section__title'>Certifications</h2>
+    </section>
   )
 }
 

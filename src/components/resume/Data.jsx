@@ -5,7 +5,7 @@ const Data = [
         name: 'ALX',
         icon: 'icon-briefcase',
         year: '2022 - 2023',
-        title: 'Internship',
+        title: 'Student Internship',
         desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore voluptatum necessitatibus ipsam modi itaque vel repellendus ullam adipisci et molestiae soluta perferendis nesciunt, dolore tempora possimus praesentium minus temporibus ut.'
     },
     {

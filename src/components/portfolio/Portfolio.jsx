@@ -21,8 +21,8 @@ const Portfolio = () => {
           return (
             <div className='work__card' key={id}>
               <div className='work__thumbnail'>
+              <div className='work__mask'></div>
                 <img src={image} alt='' className='work__image'/>
-                <div className='work__mask'></div>
               </div>
 
               <span className='work__category'>{category}</span>

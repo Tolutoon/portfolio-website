@@ -33,6 +33,30 @@
 }
 
 
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--body-color);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--first-color);
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+html {
+  /* For Firefox */
+  overflow-y: scroll;
+  scrollbar-color: #8bffaa #ffffff;
+  scrollbar-width: thin;
+}
+
+
 /* Responsive Typography */
 @media screen and (max-width: 1024px) {
     :root {
