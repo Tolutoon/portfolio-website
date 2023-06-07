@@ -1,0 +1,32 @@
+.certify__container {
+    grid-template-columns: repeat(2 1fr);
+    column-gap: 1.875rem;
+}
+
+.certify {
+    background-color: var(--container-color);
+    padding: 1.875rem;
+    border-radius: var(--border-radius);
+    position: relative;
+    box-shadow: var(--shadow);
+}
+
+.certify__item {
+    position: relative;
+    padding-left: 3.125rem;
+    padding-bottom: 3.125rem;
+}
+
+.certify__item:last-child {
+    padding-bottom: 0;
+}
+
+.certify .icon-briefcase {
+    position: absolute;
+    left: -0.2rem;
+    top: -0.2rem;
+    font-size: var(--h2-font-size);
+    color: var(--first-color);
+    background-color: #fff;
+    padding: 0.4375rem 0;
+}
