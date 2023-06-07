@@ -16,19 +16,21 @@ const Menu = [
     {
         id: 1,
         image: Work5,
-        title: 'Next Website ',
+        title: 'Next Website built with HTML, CSS & Javascript',
         category: 'Development',
+        url: 'https://next-website-lemon.vercel.app/'
     },
     {
         id: 2,
         image: Work1,
-        title: 'Pizza Town',
+        title: 'Pizza Town Web App built with NextJS, ReactJS & Sanity ',
         category: 'Development',
+        url: 'https://github.com/Tolutoon/pizza-town'
     },
     {
         id: 3,
         image: Work7,
-        title: 'React GYM Website',
+        title: 'GYM Website built using ReactJS',
         category: 'Development',
     },
     {
@@ -36,6 +38,7 @@ const Menu = [
         image: Work10,
         title: 'Redesign of National Bank Mobile App',
         category: 'Design',
+        url: 'https://www.behance.net/gallery/157129691/National-Bank-Finance-Mobile-App'
     },
     {
         id: 5,
