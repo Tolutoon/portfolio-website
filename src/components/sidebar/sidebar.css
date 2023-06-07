@@ -47,3 +47,15 @@
     transform: rotate(-180deg);
     writing-mode: vertical-rl;
 }
+
+.nav__toggle {
+    position: fixed;
+    top: 1.25rem;
+    left: 1.875rem;
+}
+
+@media screen and (max-width: 1024px) {
+    .aside {
+        left: -110px;
+    }
+}
