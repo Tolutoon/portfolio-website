@@ -4,9 +4,9 @@ const Data = [
         category: 'experience',
         name: 'ALX',
         icon: 'icon-briefcase',
-        year: '2022 - 2023',
+        year: '2022 - present',
         title: 'Student Internship',
-        desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore voluptatum necessitatibus ipsam modi itaque vel repellendus ullam adipisci et molestiae soluta perferendis nesciunt, dolore tempora possimus praesentium minus temporibus ut.'
+        desc: 'The student training revolved around real-world projects and exercises that give students hands-on experience working with the frontend technologies. Through the program, I learnt a wide range of skills, including: HTML, CSS, and JavaScript: Responsive design Frontend frameworks: I learnt how to work with popular frontend frameworks like React, as well as state management libraries like Redux.'
     },
     {
         id: 1,
@@ -22,9 +22,9 @@ const Data = [
         category: 'education',
         name: 'Holberton School',
         icon: 'icon-graduation',
-        year: '2022 - 2023',
+        year: '2022 - present',
         title: 'Software Engineering (Front-End Specailization)',
-        desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore voluptatum necessitatibus ipsam modi itaque vel repellendus ullam adipisci et molestiae soluta perferendis nesciunt, dolore tempora possimus praesentium minus temporibus ut.'
+        desc: 'Holberton School, offers a comprehensive education in software engineering that is designed to prepare students for successful careers in the tech industry. The curriculum is rigorous and hands-on, with a focus on computer science fundamentals and practical experience with real-world projects. The courses are self-taught with the guidance of experienced mentors who have a deep understanding of the tech industry.'
     },
     {
         id: 1,
@@ -33,7 +33,7 @@ const Data = [
         icon: 'icon-graduation',
         year: '2015 - 2019',
         title: 'Bachelor\'s Degree',
-        desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore voluptatum necessitatibus ipsam modi itaque vel repellendus ullam adipisci et molestiae soluta perferendis nesciunt, dolore tempora possimus praesentium minus temporibus ut.'
+        desc: 'BSc. degree in Physics from University of Lagos offers a comprehensive understanding of the fundamental principles. Through a combination of theoretical knowledge and practical experimentation, students gain valuable skills in critical thinking, problem-solving, and data analysis.'
     },
 ];
 

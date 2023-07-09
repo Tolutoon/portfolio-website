@@ -30,3 +30,18 @@
     background-color: #fff;
     padding: 0.4375rem 0;
 }
+
+@media screen and (max-width: 1024px){
+    .certify__container {
+        grid-template-columns: 450px;
+        justify-content: center;
+        row-gap: 1.875rem;
+    }
+}
+
+@media screen and (max-width: 576px) {
+    .certify__container {
+        grid-template-columns: 1fr;
+    }
+    
+}

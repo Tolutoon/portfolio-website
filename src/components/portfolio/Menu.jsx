@@ -1,15 +1,15 @@
-import Work1 from '../../assets/PizzaTown.svg';
-import Work2 from '../../assets/Tesla.svg';
-import Work3 from '../../assets/Tic-Tac-Toe.svg';
-import Work4 from '../../assets/Portfolio website.svg';
-import Work5 from '../../assets/Next Website.svg';
-import Work6 from '../../assets/Weather-App.svg';
-import Work7 from '../../assets/GYM.svg';
-import Work8 from '../../assets/Clock.svg';
+import Work1 from '../../assets/PizzaTown.png';
+import Work2 from '../../assets/Tesla.png';
+import Work3 from '../../assets/Tic-Tac-Toe.png';
+import Work4 from '../../assets/Portfolio website.png';
+import Work5 from '../../assets/Next Website.png';
+import Work6 from '../../assets/Weather App.png';
+import Work7 from '../../assets/GYM.png';
+import Work8 from '../../assets/Clock.png';
 import Work10 from '../../assets/thumbnailfc.png';
 import Work11 from '../../assets/nft.png';
 import Work12 from '../../assets/news.svg';
-import Work13 from '../../assets/Furniture.svg';
+import Work13 from '../../assets/Furniture.png';
 
 
 const Menu = [
