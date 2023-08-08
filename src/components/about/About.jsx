@@ -14,8 +14,8 @@ const About = () => {
           <div className="about__info">
             <p className="about__description">
               Hi there! My name is Olopade Tolu, and I'm a
-              front-end developer. With a good foundation in HTML, CSS, JavaScript, I strive to build user-friendly and
-              visually appealing websites & mobile applications with frontend technologies. I have a good experience in crafting
+              Front-End Developer with an adroit background in HTML5, CSS3, JavaScript. I strive to build user-friendly and
+              visually appealing websites & mobile applications with frameworks & frontend technologies. I have a good experience in crafting
               responsive and accessible designs that adapt across
               various devices and screen sizes. Outside of coding, I have a
               creative side that I nurture through hobbies such as illustrating. 

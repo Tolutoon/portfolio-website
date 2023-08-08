@@ -15,7 +15,7 @@ const Data = [
         icon: 'icon-briefcase',
         year: '2017 - present',
         title: 'Illustrator',
-        desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore voluptatum necessitatibus ipsam modi itaque vel repellendus ullam adipisci et molestiae soluta perferendis nesciunt, dolore tempora possimus praesentium minus temporibus ut.'
+        desc: 'Collaborate with clients, authors, or art directors to understand the vision and concept behind a project. They use their creative thinking and problem-solving skills to develop initial ideas, brainstorm concepts, and bring their imagination to the table.'
     },
     {
         id: 1,
