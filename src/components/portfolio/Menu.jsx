@@ -74,18 +74,21 @@ const Menu = [
     image: Work4,
     title: "Personal Portfolio Website built using React JS",
     category: "Development",
+    url: 'https://github.com/Tolutoon/portfolio-website',
   },
   {
     id: 10,
     image: Work12,
     title: "UI for Newsletter",
     category: "Design",
+    url: 'https://www.behance.net/gallery/172473681/UI-Design-For-Newsletter',
   },
   {
     id: 11,
     image: Work13,
     title: "Landing Page Design for Furniture Website",
     category: "Design",
+    url: 'https://www.behance.net/gallery/172474949/UI-Landing-Design-for-Furniture-Website',
   },
   {
     id: 12,

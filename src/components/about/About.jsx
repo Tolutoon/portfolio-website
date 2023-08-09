@@ -22,7 +22,7 @@ const About = () => {
               <br></br>Let's build something amazing together!
             </p>
             <a
-              href="https://drive.google.com/file/d/15Esjv5gRlQi7IPV19uiSOxFutAgCcVUp/view?usp=sharing"
+              href="https://drive.google.com/file/d/1U3IKyhEiuuLZffeRrjEHNymENoNRSaSh/view?usp=sharing"
               rel="noreferrer"
               target="_blank"
               className="btn"
