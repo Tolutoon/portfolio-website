@@ -29,11 +29,11 @@ const Home = () => {
           <Typewriter 
           onInit={(typewriter) => {
             typewriter
-            .typeString('I\'m a Front-End Developer')
+            .typeString('I\'m a Software Developer')
 
             .pauseFor(1800)
             .deleteAll()
-            .typeString('I\'m a User-Interface Designer')
+            .typeString('I\'m a Designer')
             .pauseFor(1500)
             .deleteAll()
 
@@ -41,7 +41,7 @@ const Home = () => {
             .typeString('I\'m an Illustrator')
             .pauseFor(800)
             .deleteAll()
-            .typeString('I\'m a Front-End Developer')
+            .typeString('I\'m a Software Developer')
           }}
           />
           </h4>

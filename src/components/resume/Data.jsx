@@ -4,7 +4,7 @@ const Data = [
         category: 'experience',
         name: 'ALX',
         icon: 'icon-briefcase',
-        year: '2022 - present',
+        year: '2022 - 2023',
         title: 'Student Internship',
         desc: 'The student training revolved around real-world projects and exercises that give students hands-on experience working with the frontend technologies. Through the program, I learnt a wide range of skills, including: HTML, CSS, and JavaScript: Responsive design Frontend frameworks: I learnt how to work with popular frontend frameworks like React, as well as state management libraries like Redux.'
     },
@@ -22,7 +22,7 @@ const Data = [
         category: 'education',
         name: 'Holberton School',
         icon: 'icon-graduation',
-        year: '2022 - present',
+        year: '2022 - 2023',
         title: 'Software Engineering (Front-End Specailization)',
         desc: 'Holberton School, offers a comprehensive education in software engineering that is designed to prepare students for successful careers in the tech industry. The curriculum is rigorous and hands-on, with a focus on computer science fundamentals and practical experience with real-world projects. The courses are self-taught with the guidance of experienced mentors who have a deep understanding of the tech industry.'
     },
