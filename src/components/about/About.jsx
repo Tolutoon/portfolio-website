@@ -14,15 +14,14 @@ const About = () => {
           <div className="about__info">
             <p className="about__description">
               Hi there! My name is Olopade Tolu, and I'm a
-              Front-End Developer with an adroit background in HTML5, CSS3, JavaScript. I strive to build user-friendly and
-              visually appealing websites & mobile applications with frameworks & frontend technologies. I have a good experience in crafting
+              Flutter developer, I strive to build user-friendly and visually mobile applications with front-end technologies. I have a good experience in crafting
               responsive and accessible designs that adapt across
               various devices and screen sizes. Outside of coding, I have a
               creative side that I nurture through hobbies such as illustrating. 
               <br></br>Let's build something amazing together!
             </p>
             <a
-              href="https://drive.google.com/file/d/1NhHCKOwbnEGYUutgrH-gYifbRTrLm_gl/view?usp=sharing"
+              href="https://drive.google.com/file/d/15eYsGnC7mwmwpanE1OJmShW9ZUU0fuMy/view?usp=sharing"
               rel="noreferrer"
               target="_blank"
               className="btn"

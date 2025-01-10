@@ -29,7 +29,7 @@ const Home = () => {
           <Typewriter 
           onInit={(typewriter) => {
             typewriter
-            .typeString('I\'m a Software Developer')
+            .typeString('I\'m a Flutter Developer')
 
             .pauseFor(1800)
             .deleteAll()

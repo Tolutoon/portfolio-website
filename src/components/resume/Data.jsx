@@ -19,13 +19,14 @@ const Data = [
     },
     {
         id: 1,
-        category: 'education',
-        name: 'Holberton School',
-        icon: 'icon-graduation',
-        year: '2022 - 2023',
-        title: 'Software Engineering (Front-End Specailization)',
-        desc: 'Holberton School, offers a comprehensive education in software engineering that is designed to prepare students for successful careers in the tech industry. The curriculum is rigorous and hands-on, with a focus on computer science fundamentals and practical experience with real-world projects. The courses are self-taught with the guidance of experienced mentors who have a deep understanding of the tech industry.'
-    },
+        category: "education",
+        name: "ISSL",
+        icon: "icon-briefcase",
+        year: "2024 - present",
+        title: "Mobile Developer (Flutter/Dart) || Front-End Developer",
+        desc: "At ISSL, I specialize in mobile development using Flutter and Dart to create seamless, cross-platform applications. My role also extends to front-end development, where I craft responsive and intuitive user interfaces. Collaborating with cross-functional teams, I deliver scalable and efficient solutions tailored to user needs, while leveraging modern technologies and best practices in app development."
+    }
+,    
     {
         id: 1,
         category: 'education',
