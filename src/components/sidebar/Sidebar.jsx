@@ -49,7 +49,7 @@ const Sidebar = () => {
       </nav>
 
       <footer className='nav__footer'>
-        <span className='copyright'>&copy; 2024</span>
+        <span className='copyright'>&copy; 2025</span>
       </footer>
     </aside>
 
