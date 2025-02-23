@@ -12,7 +12,7 @@ const HeaderSocials = () => {
         <a href='https://www.instagram.com/tolutoon' className='home__social-link' rel="noopener" target='_blank'>
             <i class='fa-brands fa-instagram'></i>
         </a>
-        <a href='https://twitter.com/tolutoon' className='home__social-link' rel="noopener" target='_blank'>
+        <a href='https://twitter.com/nottoluu' className='home__social-link' rel="noopener" target='_blank'>
             <i class="fa-brands fa-twitter"></i>
         </a>
         <a href='https://dribbble.com/' className='home__social-link' rel="noopener" target='_blank'>
