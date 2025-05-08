@@ -17,6 +17,16 @@ const Data = [
         title: 'Illustrator',
         desc: 'Collaborate with clients, authors, or art directors to understand the vision and concept behind a project. They use their creative thinking and problem-solving skills to develop initial ideas, brainstorm concepts, and bring their imagination to the table.'
     },
+      
+    {
+        id: 1,
+        category: 'education',
+        name: 'CodeLine Digital Limited',
+        icon: 'icon-briefcase',
+        year: '2025 - Present',
+        title: 'Flutter Developer',
+        desc: 'I focus on mobile development with Flutter and Dart, building smooth, cross-platform applications. I also contribute to front-end development, designing responsive and user-friendly interfaces. Working closely with cross-functional teams, I deliver scalable, high-quality solutions that align with user needs, leveraging the latest technologies and development best practices.'
+    },
     {
         id: 1,
         category: "education",
@@ -26,16 +36,7 @@ const Data = [
         title: "Mobile Developer (Flutter/Dart) || Front-End Developer",
         desc: "At ISSL, I specialize in mobile development using Flutter and Dart to create seamless, cross-platform applications. My role also extends to front-end development, where I craft responsive and intuitive user interfaces. Collaborating with cross-functional teams, I deliver scalable and efficient solutions tailored to user needs, while leveraging modern technologies and best practices in app development."
     }
-,    
-    {
-        id: 1,
-        category: 'education',
-        name: 'University of Lagos',
-        icon: 'icon-graduation',
-        year: '2015 - 2019',
-        title: 'Bachelor\'s Degree',
-        desc: 'BSc. degree in Physics from University of Lagos offers a comprehensive understanding of the fundamental principles. Through a combination of theoretical knowledge and practical experimentation, students gain valuable skills in critical thinking, problem-solving, and data analysis.'
-    },
+,  
 ];
 
 export default Data;
