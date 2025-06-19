@@ -21,7 +21,7 @@ const About = () => {
               <br></br>Let's build something amazing together!
             </p>
             <a
-              href="https://drive.google.com/file/d/1awZDaGlHEjnkQV4-cWL8z0h8b6H539XA/view?usp=sharing"
+              href="https://drive.google.com/file/d/1f6YG3rFZ5uRdGY6HhoiQfK4Jz6EW3-ay/view?usp=sharing"
               rel="noreferrer"
               target="_blank"
               className="btn"
