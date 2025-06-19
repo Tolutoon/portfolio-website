@@ -49,7 +49,8 @@ const Sidebar = () => {
       </nav>
 
       <footer className='nav__footer'>
-        <span className='copyright'>&copy; 2025</span>
+   <span className="copyright">&copy; {new Date().getFullYear()}</span>
+
       </footer>
     </aside>
 
