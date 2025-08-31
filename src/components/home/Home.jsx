@@ -29,19 +29,19 @@ const Home = () => {
           <Typewriter 
           onInit={(typewriter) => {
             typewriter
-            .typeString('I\'m a Flutter Developer')
+            .typeString('Flutter Developer')
 
             .pauseFor(1800)
             .deleteAll()
-            .typeString('I\'m a Designer')
+            .typeString('Designer')
             .pauseFor(1500)
             .deleteAll()
 
             .start()
-            .typeString('I\'m an Illustrator')
+            .typeString('Illustrator')
             .pauseFor(800)
             .deleteAll()
-            .typeString('I\'m a Software Developer')
+            .typeString('I\'m a Software Engineer')
           }}
           />
           </h4>
