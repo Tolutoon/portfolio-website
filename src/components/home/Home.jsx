@@ -33,9 +33,9 @@ const Home = () => {
 
             .pauseFor(1800)
             .deleteAll()
-            .typeString('Designer')
-            .pauseFor(1500)
-            .deleteAll()
+            // .typeString('Designer')
+            // .pauseFor(1500)
+            // .deleteAll()
 
             .start()
             .typeString('Illustrator')
